@@ -60,4 +60,4 @@ if __name__ == "__main__":
         # hide the turtle
         pen.hideturtle()
 
-# This code is contributed by Deepanshu Rustagi.
+
